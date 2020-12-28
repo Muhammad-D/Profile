@@ -16,8 +16,8 @@
   &__name {
     font-size: 5rem;
     padding-bottom: 1rem;
-    margin-top: 1rem;
-    border-bottom: 1px solid #fff;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid set-text-color($primery-color);
   }
   &__last-name {
     color: $secondary-color;
