@@ -1,7 +1,10 @@
-@import "config";
-@import "home";
+@import "./config";
+@import "./home";
 @import "./menu";
 @import "./about";
+@import "./projects";
+@import "./contact";
+
 body {
   background-color: $primery-color;
   color: set-text-color($primery-color);
